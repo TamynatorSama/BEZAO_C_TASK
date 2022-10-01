@@ -1,0 +1,15 @@
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\pig_latin\bin\Debug\net6.0\pig_latin.exe
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\pig_latin\bin\Debug\net6.0\pig_latin.deps.json
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\pig_latin\bin\Debug\net6.0\pig_latin.runtimeconfig.json
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\pig_latin\bin\Debug\net6.0\pig_latin.dll
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\pig_latin\bin\Debug\net6.0\pig_latin.pdb
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\pig_latin\obj\Debug\net6.0\pig_latin.csproj.AssemblyReference.cache
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\pig_latin\obj\Debug\net6.0\pig_latin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\pig_latin\obj\Debug\net6.0\pig_latin.AssemblyInfoInputs.cache
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\pig_latin\obj\Debug\net6.0\pig_latin.AssemblyInfo.cs
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\pig_latin\obj\Debug\net6.0\pig_latin.csproj.CoreCompileInputs.cache
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\pig_latin\obj\Debug\net6.0\pig_latin.dll
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\pig_latin\obj\Debug\net6.0\refint\pig_latin.dll
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\pig_latin\obj\Debug\net6.0\pig_latin.pdb
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\pig_latin\obj\Debug\net6.0\pig_latin.genruntimeconfig.cache
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\pig_latin\obj\Debug\net6.0\ref\pig_latin.dll

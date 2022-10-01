@@ -1,0 +1,15 @@
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\leap_year\bin\Debug\net6.0\leap_year.exe
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\leap_year\bin\Debug\net6.0\leap_year.deps.json
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\leap_year\bin\Debug\net6.0\leap_year.runtimeconfig.json
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\leap_year\bin\Debug\net6.0\leap_year.dll
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\leap_year\bin\Debug\net6.0\leap_year.pdb
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\leap_year\obj\Debug\net6.0\leap_year.csproj.AssemblyReference.cache
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\leap_year\obj\Debug\net6.0\leap_year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\leap_year\obj\Debug\net6.0\leap_year.AssemblyInfoInputs.cache
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\leap_year\obj\Debug\net6.0\leap_year.AssemblyInfo.cs
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\leap_year\obj\Debug\net6.0\leap_year.csproj.CoreCompileInputs.cache
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\leap_year\obj\Debug\net6.0\leap_year.dll
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\leap_year\obj\Debug\net6.0\refint\leap_year.dll
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\leap_year\obj\Debug\net6.0\leap_year.pdb
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\leap_year\obj\Debug\net6.0\leap_year.genruntimeconfig.cache
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\leap_year\obj\Debug\net6.0\ref\leap_year.dll

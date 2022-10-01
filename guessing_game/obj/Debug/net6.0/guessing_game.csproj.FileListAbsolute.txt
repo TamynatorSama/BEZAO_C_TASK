@@ -1,0 +1,15 @@
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\guessing_game\bin\Debug\net6.0\guessing_game.exe
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\guessing_game\bin\Debug\net6.0\guessing_game.deps.json
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\guessing_game\bin\Debug\net6.0\guessing_game.runtimeconfig.json
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\guessing_game\bin\Debug\net6.0\guessing_game.dll
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\guessing_game\bin\Debug\net6.0\guessing_game.pdb
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\guessing_game\obj\Debug\net6.0\guessing_game.csproj.AssemblyReference.cache
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\guessing_game\obj\Debug\net6.0\guessing_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\guessing_game\obj\Debug\net6.0\guessing_game.AssemblyInfoInputs.cache
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\guessing_game\obj\Debug\net6.0\guessing_game.AssemblyInfo.cs
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\guessing_game\obj\Debug\net6.0\guessing_game.csproj.CoreCompileInputs.cache
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\guessing_game\obj\Debug\net6.0\guessing_game.dll
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\guessing_game\obj\Debug\net6.0\refint\guessing_game.dll
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\guessing_game\obj\Debug\net6.0\guessing_game.pdb
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\guessing_game\obj\Debug\net6.0\guessing_game.genruntimeconfig.cache
+C:\Users\kolaw\OneDrive\Documents\code\bezao C#\guessing_game\obj\Debug\net6.0\ref\guessing_game.dll
